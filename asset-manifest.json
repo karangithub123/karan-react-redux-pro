@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/karangithub123/karan-react-redux-pro/static/css/main.a5144b5d.css",
+    "main.js": "/karangithub123/karan-react-redux-pro/static/js/main.f630723c.js",
+    "index.html": "/karangithub123/karan-react-redux-pro/index.html",
+    "main.a5144b5d.css.map": "/karangithub123/karan-react-redux-pro/static/css/main.a5144b5d.css.map",
+    "main.f630723c.js.map": "/karangithub123/karan-react-redux-pro/static/js/main.f630723c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a5144b5d.css",
+    "static/js/main.f630723c.js"
+  ]
+}
